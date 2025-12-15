@@ -5,7 +5,8 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/hp/ontologies/2025/11/ontologie_prject">
+     ontologyIRI="http://www.semanticweb.org/hp/ontologies/2025/11/ontologie_prject"
+     versionIRI="https://raw.githubusercontent.com/lis151/mon-ontologie-tourisme/refs/heads/main/projet.owx">
     <Prefix name="" IRI="http://www.semanticweb.org/hp/ontologies/2025/11/ontologie_prject/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
